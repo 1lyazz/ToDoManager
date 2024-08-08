@@ -11,10 +11,12 @@
 # To-Do Manager
 
 <div style="text-align: justify;">
-    To-Do Manager is a simple task manager that allows you to create, edit, prioritize, delete, and mark tasks as done.
+    To-Do Manager is a simple task manager that allows you to create, edit, prioritize, delete, and mark tasks as done.<br>
     This application is created for training purposes, focusing on working with tables, delegation, and UserDefaults.
 </div>
 
 ## App Demo <br>
 
-![ToDoManagerGif](Resources/ToDoManager.gif)
+<div align="center"><br>
+  <img src="Resources/ToDoManager.gif" style="border-radius: 15px;">
+</div>
