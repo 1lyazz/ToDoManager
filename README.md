@@ -11,7 +11,7 @@
 # To-Do Manager
 
   - Version 1.0
-  - Pronramming language: Swift
+  - Programming language: Swift
   - Framework: UIKit
   - Architecture: MVC
   - Layout type: Storyboard and XIB
