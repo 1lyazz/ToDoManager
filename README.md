@@ -10,9 +10,16 @@
 
 # To-Do Manager
 
+  - Version 1.0
+  - Programming language: Swift
+  - Framework: UIKit
+  - Architecture: MVC
+  - Layout type: Storyboard and XIB
+  - Data Storage: UserDefaults
+
 <div style="text-align: justify;">
-    To-Do Manager is a simple task manager that allows you to create, edit, prioritize, delete, and mark tasks as done.<br>
-    This application is created for training purposes, focusing on working with tables, delegation, and UserDefaults.
+  To-Do Manager is a simple task manager that allows you to create, edit, prioritize, delete, and mark tasks as done.<br>
+  This application is created for training purposes, focusing on working with tables, delegation, and UserDefaults.
 </div>
 
 ## App Demo <br>

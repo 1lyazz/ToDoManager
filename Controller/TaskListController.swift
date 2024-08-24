@@ -32,7 +32,6 @@ class TaskListController: UITableViewController {
         }
     }
     
-    // порядок отображения секций по типам
     // array index equal table section index
     var sectionsTypesPosition: [TaskPriority] = [.important, .normal]
     

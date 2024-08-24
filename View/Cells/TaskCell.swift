@@ -5,7 +5,7 @@
 import UIKit
 
 class TaskCell: UITableViewCell {
+    
     @IBOutlet var symbol: UILabel!
     @IBOutlet var title: UILabel!
-    
 }
